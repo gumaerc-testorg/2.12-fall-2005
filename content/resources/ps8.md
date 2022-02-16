@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This section contains problem assignment set number 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-12-introduction-to-robotics-fall-2005/795b48d5d9f133f3244401a8d3bda649_ps8.pdf
+file: /media/courses/2-12-introduction-to-robotics-fall-2005/795b48d5d9f133f3244401a8d3bda649_ps8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps8.pdf
 uid: 795b48d5-d9f1-33f3-2444-01a8d3bda649

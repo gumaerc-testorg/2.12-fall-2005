@@ -2,8 +2,13 @@
 content_type: resource
 description: This section contains problems and their solutions for the end-of-term
   exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-12-introduction-to-robotics-fall-2005/c9f0eca806370ff0042acbf2518a5342_practicefinal1.pdf
+file: /media/courses/2-12-introduction-to-robotics-fall-2005/c9f0eca806370ff0042acbf2518a5342_practicefinal1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: practicefinal1.pdf
 uid: c9f0eca8-0637-0ff0-042a-cbf2518a5342

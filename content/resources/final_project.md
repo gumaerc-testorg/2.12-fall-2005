@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on rescue robot.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-12-introduction-to-robotics-fall-2005/a006e63b1be4bb725b78adb71bac5830_final_project.pdf
+file: /media/courses/2-12-introduction-to-robotics-fall-2005/a006e63b1be4bb725b78adb71bac5830_final_project.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: final_project.pdf
 uid: a006e63b-1be4-bb72-5b78-adb71bac5830
