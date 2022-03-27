@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: d439cdf4-9fcf-d07d-a3c6-3279c8600f42
 resourcetype: Document
 title: midterm_05.pdf
 uid: cd28c566-b7c7-f851-c7be-154b223d546e

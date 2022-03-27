@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2a7aec29-a3b1-d440-f01a-db7d5ef272e5
 resourcetype: Document
 title: practicefinal1.pdf
 uid: c9f0eca8-0637-0ff0-042a-cbf2518a5342

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: d439cdf4-9fcf-d07d-a3c6-3279c8600f42
 resourcetype: Document
 title: practicefinal1.pdf
 uid: 8b2c2d8c-9be2-f9e1-2b5e-2a567b0ac0e3
