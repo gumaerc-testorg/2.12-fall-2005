@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-12-introduction-to-robotics-fall-2005/8b2c2d8c9be2f9e12b5e2a567b0ac0e3_practicefinal1.pdf
+file: /courses/2-12-introduction-to-robotics-fall-2005/8b2c2d8c9be2f9e12b5e2a567b0ac0e3_practicefinal1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

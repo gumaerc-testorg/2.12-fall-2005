@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-12-introduction-to-robotics-fall-2005/f82e4659e9b6dd64acf9d9ccfa2f53a8_midterm_04.pdf
+file: /courses/2-12-introduction-to-robotics-fall-2005/f82e4659e9b6dd64acf9d9ccfa2f53a8_midterm_04.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

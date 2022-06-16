@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains prerequisites, course text grading criteria and
+  a calendar covering the topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +27,7 @@ Course Text
 
 Asada, H., and J. J. Slotine. _Robot Analysis and Control_. New York, NY: Wiley, 1986. ISBN: 9780471830290.
 
-This book will be supplemented by newly written [lecture notes]({{< baseurl >}}/pages/lecture-notes), which are a preliminary version of the book's second edition. While the book was originally written for graduate-level courses, the new lecture notes are primarily for undergraduate juniors and seniors, assuming 2.003 and 2.004 level background knowledge about dynamics and control.
+This book will be supplemented by newly written {{% resource_link 756bd2cb-ed00-e4ec-8b9a-59a5d1d0df7b "lecture notes" %}}, which are a preliminary version of the book's second edition. While the book was originally written for graduate-level courses, the new lecture notes are primarily for undergraduate juniors and seniors, assuming 2.003 and 2.004 level background knowledge about dynamics and control.
 
 Labs and Projects
 -----------------
