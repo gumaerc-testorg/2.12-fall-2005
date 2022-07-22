@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides students work on two projects (De-mining Robot
+  and Rescue Robot) during the term.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 390862f9-b884-e6ea-7fb9-b4b16328d97c
 ---
@@ -29,19 +34,19 @@ SUPPORTING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 1 ([PDF]({{< baseurl >}}/resources/lab1))
+Lab 1 ({{% resource_link 4678d8ef-2d73-3e5c-6421-10c85bbaa7de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Embedded Robot Controller, I/O Interface, and PWM Amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-Lab Report Form ([PDF]({{< baseurl >}}/resources/lab1_response))
+Lab Report Form ({{% resource_link d30774f2-5bdd-cc96-34b1-ee8180d84293 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 2 ([PDF]({{< baseurl >}}/resources/lab2))
+Lab 2 ({{% resource_link ee37130b-ab52-ce2b-fafe-6c33543f002c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Controller Software and Sensor Inputs
@@ -53,7 +58,7 @@ Controller Software and Sensor Inputs
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 3 ([PDF]({{< baseurl >}}/resources/lab3))
+Lab 3 ({{% resource_link 65ee47d5-947f-135b-84ba-02cc61806bd7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Implement Basic Sensor-Based Controls; Plan Strategy for De-mining Task
@@ -105,6 +110,6 @@ Second Project: Rescue Robot
 
 This past year will be remembered for its many severe natural disasters, both overseas and here in the United States. One of the most compelling applications for robotics technology is to develop rescue robots that might be able to save lives after such catastrophic events. Students will be given the challenge of developing autonomous mobile robots that can perform navigation and manipulation for a disaster response rescue mission. Each robot has a manipulator arm mounted on a moving platform guided by an on-board Linux computer and various sensors, including a laser range scanner for detecting obstacles and "houses" where victims (dolls) may be located. Once located, the robot should retrieve the victim and take it a hospital treatment center.
 
-Description of the Rescue Robot Project ([PDF]({{< baseurl >}}/resources/final_project))
+Description of the Rescue Robot Project ({{% resource_link a006e63b-1be4-bb72-5b78-adb71bac5830 "PDF" %}})
 
 Video of Final Demonstrations ([MOV - 13.3 MB](/ans7870/2/2.12/f05/projects/rescue_robot.mov)) (Courtesy of Phil Shaltis. Used with permission.)
