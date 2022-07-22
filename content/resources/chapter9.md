@@ -6,6 +6,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/127c560e6052cb02ed3f7adc8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chapter9.pdf
 uid: 127c560e-6052-cb02-ed3f-7adc8d3c1512
 ---
 This section contains topics: hybrid position/force control and compliance control.
-

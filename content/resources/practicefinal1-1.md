@@ -6,6 +6,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/c9f0eca806370ff0042acbf25
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practicefinal1.pdf
 uid: c9f0eca8-0637-0ff0-042a-cbf2518a5342
 ---
 This section contains problems and their solutions for the end-of-term exam.
-

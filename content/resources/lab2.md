@@ -5,6 +5,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/ee37130bab52ce2bfafe6c335
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2.pdf
 uid: ee37130b-ab52-ce2b-fafe-6c33543f002c
 ---
 This file contains a set of activities performed in the laboratory.
-

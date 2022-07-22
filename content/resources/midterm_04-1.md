@@ -5,6 +5,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/2d8a2ae8ba7c0104d52cd8170
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_04.pdf
 uid: 2d8a2ae8-ba7c-0104-d52c-d8170b777c82
 ---
 This section contains set of questions to be answered.
-

@@ -6,6 +6,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/228dbf33cc6dc0f84c0d87e00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chapter1.pdf
 uid: 228dbf33-cc6d-c0f8-4c0d-87e00b31a410
 ---
 This file contains topics: era of industrial robots, creation of robotics, manipulation and dexterity and locomotion and navigation.
-

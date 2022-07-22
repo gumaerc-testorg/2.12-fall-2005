@@ -5,6 +5,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/6b3963991254d93388e656ab8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7.pdf
 uid: 6b396399-1254-d933-88e6-56ab89ebd963
 ---
 This file contains problem assignment set number 7.
-

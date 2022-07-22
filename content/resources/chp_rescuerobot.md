@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_rescuerobot.jpg
 uid: ad032e2c-0f74-7e63-73e9-a1987ea6d273
 ---
 In this year's final project, 2.12 students built a rescue robot to find and carry a doll, representing a victim of disaster, to the "emergency room." (Photo courtesy of Donna Coveney. Used with permission.)
-

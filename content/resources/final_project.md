@@ -5,6 +5,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/a006e63b1be4bb725b78adb71
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_project.pdf
 uid: a006e63b-1be4-bb72-5b78-adb71bac5830
 ---
 This resource contains information on rescue robot.
-

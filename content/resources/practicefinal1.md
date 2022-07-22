@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-12-introduction-to-robotics-fall-2005/8b2c2d8c9be2f9e12b5e2a567b0ac0e3_practicefinal1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/2-12-introduction-to-robotics-fall-2005/795b48d5d9f133f3244401a8d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps8.pdf
 uid: 795b48d5-d9f1-33f3-2444-01a8d3bda649
 ---
 This section contains problem assignment set number 8.
-
