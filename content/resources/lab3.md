@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains basic robot functions and the de-mining robot project
   task statement.
 file: /courses/2-12-introduction-to-robotics-fall-2005/65ee47d5947f135b84ba02cc61806bd7_lab3.pdf
+file_size: 47844
 file_type: application/pdf
 learning_resource_types:
 - Projects

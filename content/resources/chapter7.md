@@ -3,6 +3,7 @@ content_type: resource
 description: 'This section contains topics: Newton-Euler formulation of equations
   of motion and Lagrangian formulation of robot dynamics.'
 file: /courses/2-12-introduction-to-robotics-fall-2005/c7caaa2376b8ec01e270328a3b80b029_chapter7.pdf
+file_size: 265870
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

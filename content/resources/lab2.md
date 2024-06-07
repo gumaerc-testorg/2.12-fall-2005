@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains a set of activities performed in the laboratory.
 file: /courses/2-12-introduction-to-robotics-fall-2005/ee37130bab52ce2bfafe6c33543f002c_lab2.pdf
+file_size: 41247
 file_type: application/pdf
 learning_resource_types:
 - Projects
