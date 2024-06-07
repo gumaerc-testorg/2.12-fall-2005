@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains topics: era of industrial robots, creation of robotics,
   manipulation and dexterity and locomotion and navigation.'
 file: /courses/2-12-introduction-to-robotics-fall-2005/228dbf33cc6dc0f84c0d87e00b31a410_chapter1.pdf
+file_size: 203658
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

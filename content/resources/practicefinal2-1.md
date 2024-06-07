@@ -2,6 +2,7 @@
 content_type: resource
 description: This section contains set of problems and solutions for end-of-term exam.
 file: /courses/2-12-introduction-to-robotics-fall-2005/8fc8ecdee29f89b38f21eb7aaa2c9cd4_practicefinal2.pdf
+file_size: 555904
 file_type: application/pdf
 learning_resource_types:
 - Exams
