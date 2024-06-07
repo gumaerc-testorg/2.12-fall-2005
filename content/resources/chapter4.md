@@ -4,6 +4,7 @@ description: 'This section contains topics: Planar kinematics of serial link mec
   Inverse kinematics of planar mechanisms, Kinematics of parallel link mechanisms
   and redundant mechanisms.'
 file: /courses/2-12-introduction-to-robotics-fall-2005/c8828a16e71c246b78461dd0596b983f_chapter4.pdf
+file_size: 130710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

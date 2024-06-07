@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-12-introduction-to-robotics-fall-2005/f82e4659e9b6dd64acf9d9ccfa2f53a8_midterm_04.pdf
+file_size: 85625
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

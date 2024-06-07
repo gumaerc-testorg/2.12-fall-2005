@@ -4,6 +4,7 @@ description: 'This file contains topics: DC Motors, dynamics of single-axis driv
   systems, power electronics, robot controls and PWM amplifiers of the 2.12 laboratory,
   optical shaft encoders and brushless DC Motors.'
 file: /courses/2-12-introduction-to-robotics-fall-2005/9158f91fc935aae58345446fc110f6e7_chapter2.pdf
+file_size: 874184
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

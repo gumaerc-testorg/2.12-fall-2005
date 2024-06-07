@@ -2,6 +2,7 @@
 content_type: resource
 description: This section contains problem assignment set number 2.
 file: /courses/2-12-introduction-to-robotics-fall-2005/5d2aae2aaf588293e35c09c0166e3969_ps2.pdf
+file_size: 55424
 file_type: application/pdf
 learning_resource_types:
 - Assignments
