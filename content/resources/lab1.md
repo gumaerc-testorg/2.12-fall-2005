@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: initial set up of a robot control system,
   power amplifier, DC Motor, digital input and radio link.'
-file: /courses/2-12-introduction-to-robotics-fall-2005/4678d8ef2d733e5c642110c85bbaa7de_lab1.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/4678d8ef2d733e5c642110c85bbaa7de_lab1.pdf
 file_size: 56310
 file_type: application/pdf
 learning_resource_types:

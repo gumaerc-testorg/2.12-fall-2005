@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains set of questions to be answered.
-file: /courses/2-12-introduction-to-robotics-fall-2005/2d8a2ae8ba7c0104d52cd8170b777c82_midterm_04.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/2d8a2ae8ba7c0104d52cd8170b777c82_midterm_04.pdf
 file_size: 85625
 file_type: application/pdf
 learning_resource_types:
