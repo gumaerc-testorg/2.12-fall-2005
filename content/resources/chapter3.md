@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: joint primitives and serial linkages, parallel
   linkages.'
-file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/5c238d7e3445337ed40d4af83d9d2239_chapter3.pdf
+file: /courses/2-12-introduction-to-robotics-fall-2005/5c238d7e3445337ed40d4af83d9d2239_chapter3.pdf
 file_size: 507329
 file_type: application/pdf
 learning_resource_types:

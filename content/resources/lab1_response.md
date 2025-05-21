@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions based on an activity performed in the laboratory.
-file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/d30774f25bddcc9634b1ee8180d84293_lab1_response.pdf
+file: /courses/2-12-introduction-to-robotics-fall-2005/d30774f25bddcc9634b1ee8180d84293_lab1_response.pdf
 file_size: 24828
 file_type: application/pdf
 learning_resource_types:
