@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains topics: free body diagram, energy method and equivalent
   joint torques, duality of differential kinematics and statics, closed-loop kinematic
   chains and over-actuated systems.'
-file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/5c160fb678fa75191c399a373c6ce648_chapter6.pdf
+file: /courses/2-12-introduction-to-robotics-fall-2005/5c160fb678fa75191c399a373c6ce648_chapter6.pdf
 file_size: 239288
 file_type: application/pdf
 learning_resource_types:
