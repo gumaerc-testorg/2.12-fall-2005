@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains problem assignment set number 4.
-file: /courses/2-12-introduction-to-robotics-fall-2005/5361ed6a393ed4d34bcaee088aab6d48_ps4.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/5361ed6a393ed4d34bcaee088aab6d48_ps4.pdf
 file_size: 87868
 file_type: application/pdf
 learning_resource_types:

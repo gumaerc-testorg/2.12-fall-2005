@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This section contains topics: differential relationship, properties
   of the Jacobian, inverse kinematics of differential motion and singularity and redundancy.'
-file: /courses/2-12-introduction-to-robotics-fall-2005/d6edf8a76e7674076c6fd5c09dedbed3_chapter5.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/d6edf8a76e7674076c6fd5c09dedbed3_chapter5.pdf
 file_size: 152768
 file_type: application/pdf
 learning_resource_types:

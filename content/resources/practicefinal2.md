@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-12-introduction-to-robotics-fall-2005/0c893ac5dbaf9de8a7c569f8aa2557d9_practicefinal2.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/0c893ac5dbaf9de8a7c569f8aa2557d9_practicefinal2.pdf
 file_size: 555904
 file_type: application/pdf
 learning_resource_types: []

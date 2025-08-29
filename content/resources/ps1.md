@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains problem assignment set number 1.
-file: /courses/2-12-introduction-to-robotics-fall-2005/33aab8be453aca14b58420cdddd14a19_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-12-introduction-to-robotics-fall-2005/33aab8be453aca14b58420cdddd14a19_ps1.pdf
 file_size: 95743
 file_type: application/pdf
 learning_resource_types:
