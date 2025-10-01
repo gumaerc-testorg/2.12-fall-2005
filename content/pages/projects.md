@@ -91,19 +91,19 @@ The robot has a set of "whiskers" at its corners to detect walls and obstruction
 
 The robot has a failsafe control link that causes the robot to shut down if it loses contact with the student controller. While this was supposed to be a wireless connection, mysterious interference during the demonstration led most students to fall back on a wired control link.
 
-*   Robot loses RF control link and stops ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_037-220k.mp4))
-*   Robot gets stuck in a control loop ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_038-220k.mp4))
-*   Working RF control link; robot finds a mine ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_039-220k.mp4))
-*   Robot searches without success ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_040-220k.mp4))
-*   Robot finds a mine ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_041-220k.mp4))
-*   Robot finds two mines ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_042-220k.mp4))
-*   Students try to keep the robot's RF link alive ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_043-220k.mp4))
-*   Robot with a novel search pattern ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_044-220k.mp4))
-*   Robot misses a mine, then finds one ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_045-220k.mp4))
-*   Robot searches without success ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_046-220k.mp4))
-*   One of the "better functioning" designs, in terms of speed and search technique ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_047-220k.mp4))
-*   Robot searches in a spiral out from center ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_048-220k.mp4))
-*   Robot finds a mine; very quick reverse after pause ([MP4](http://www.archive.org/download/MIT2.12F04/2.12_049-220k.mp4))
+*   Robot loses RF control link and stops ({{% resource_link "61e6c6b9-41e7-4d9c-87cb-762830554d44" "MP4" %}})
+*   Robot gets stuck in a control loop ({{% resource_link "c058f70e-823d-4006-85b0-78ab72cfb428" "MP4" %}})
+*   Working RF control link; robot finds a mine ({{% resource_link "78d53f29-a0a4-42e1-bf54-56dee4b29f94" "MP4" %}})
+*   Robot searches without success ({{% resource_link "e361975a-603e-4f76-8379-963b0ea92ad1" "MP4" %}})
+*   Robot finds a mine ({{% resource_link "5a03d2b7-4c04-457a-85c1-70b3f4b9f63a" "MP4" %}})
+*   Robot finds two mines ({{% resource_link "115094ad-e083-45ea-afdd-b1e232f57619" "MP4" %}})
+*   Students try to keep the robot's RF link alive ({{% resource_link "9e9abccc-7c7d-4b11-8a6f-5d4bf419067b" "MP4" %}})
+*   Robot with a novel search pattern ({{% resource_link "e641236d-2ceb-48b0-b6aa-2305993e9369" "MP4" %}})
+*   Robot misses a mine, then finds one ({{% resource_link "02887f08-8c27-4d62-ae45-9bb10a0ebf7b" "MP4" %}})
+*   Robot searches without success ({{% resource_link "6576d653-39ea-4ac5-bcc7-9f9668424371" "MP4" %}})
+*   One of the "better functioning" designs, in terms of speed and search technique ({{% resource_link "e0fc19bd-829d-489d-9c30-dff015fd388a" "MP4" %}})
+*   Robot searches in a spiral out from center ({{% resource_link "3156f2d5-5314-49e8-995c-00dfa4518219" "MP4" %}})
+*   Robot finds a mine; very quick reverse after pause ({{% resource_link "77efa793-2309-486b-b46e-476e60e44f01" "MP4" %}})
 
 Second Project: Rescue Robot
 ----------------------------
